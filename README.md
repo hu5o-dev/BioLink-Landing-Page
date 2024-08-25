@@ -41,7 +41,7 @@ Switch between light and dark modes using the mode toggle button. Your preferenc
 
 ## 📸 Live Demo
 
-Check out the live demo [here](example.com).
+Check out the live demo [here]((https://hu5o-dev.github.io/BioLink-Landing-Page/)).
 
 ## ✨ Contributing
 
